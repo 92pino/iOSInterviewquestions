@@ -22,30 +22,12 @@ iOS개발자들에게 필요한 자료들을 정리하고 있는 중입니다.
 
 ## iOS
 - Bounds 와 Frame 의 차이점을 설명하시오.
-
 <details>
-<summary>여기를 눌러주세요</summary>
+<summary>정답</summary>
 <div markdown="1">       
-
-😎숨겨진 내용😎
-
+bound는 자기 자신의 좌표계를 기준으로, frame은 superView의 좌표계 기준으로 origin과 size 결정
 </div>
 </details>
-
-~~~
-<details>
-  <summary>상세 내용 확인</summary>
-  <div markdown="1">
-
-  div 에 markdown attribute 를 1 로 
-  하는 이유는 div 안에서
-  markdown 을 사용하기 위해서 입니다.
-
-
-  </div>
-</details>
-~~~
-  - bound는 자기 자신의 좌표계를 기준으로, frame은 superView의 좌표계 기준으로 origin과 size 결정
 - 실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.
 - 앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?
 - 앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?
