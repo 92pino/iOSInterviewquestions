@@ -22,6 +22,16 @@ iOS개발자들에게 필요한 자료들을 정리하고 있는 중입니다.
 
 ## iOS
 - Bounds 와 Frame 의 차이점을 설명하시오.
+
+<details>
+<summary>여기를 눌러주세요</summary>
+<div markdown="1">       
+
+😎숨겨진 내용😎
+
+</div>
+</details>
+
 ~~~
 <details>
   <summary>상세 내용 확인</summary>
